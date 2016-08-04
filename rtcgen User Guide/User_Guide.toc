@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Compiling the C++ Code}{1}
+\contentsline {section}{\numberline {2}Running the Code and Reading the Output}{2}
+\contentsline {subsection}{\numberline {2.1}A Quick How-to-Use Guide}{2}
+\contentsline {subsection}{\numberline {2.2}Data Types}{4}
+\contentsline {subsection}{\numberline {2.3}Format of the Output}{5}
+\contentsline {subsection}{\numberline {2.4}Multivariable Taylor Expansion}{6}
+\contentsline {subsection}{\numberline {2.5}Direct step-by-step Instructions for using \textit {H0.dat} to build the Hamiltonians with noise in your simulation}{7}
+\contentsline {section}{\numberline {3}Setting the Four Non-Physical Parameters}{8}
+\contentsline {subsection}{\numberline {3.1}totalPoints and RDagSamplingPoints}{8}
+\contentsline {subsection}{\numberline {3.2}dHdphiSamplingPoints and dHdphiFiniteDifferenceSize}{10}
+\contentsline {section}{\numberline {4}Some Final Notes}{11}
+\contentsline {subsection}{\numberline {4.1}Communication between successive diagonalization of $H_0(\phi (t))$}{11}
+\contentsline {subsection}{\numberline {4.2}Interfacing with \textit {Mathematica}}{11}
+\contentsline {subsection}{\numberline {4.3}Acknowledgments}{11}
